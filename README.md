@@ -1,5 +1,8 @@
-### Hi there 👋
 
+<p align="center"><samp><b> Hi there! 👋 </b></samp></p>
+<p align="center"><h1 align="center"><samp> I am Anshuman Mohapatra </samp></h1></p>
+<br/>
+### Something About Me
 <!--
 **amohapatra123/amohapatra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
