@@ -29,6 +29,7 @@
 <h3><b>Cloud and DevOps</b></h3>
 
 ![DOCKER](https://img.shields.io/badge/docker-257bd6?style=flat-round&logo=docker&logoColor=white)
+![KUBERNETES](https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white)
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-round&logo=Git&logoColor=white)
