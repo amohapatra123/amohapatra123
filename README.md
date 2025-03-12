@@ -5,11 +5,10 @@
 <br/>
 <h3><b><samp>Somthing About Me<b/><samp/></h3>
 <ul>
-  <li>Member of <a href="https://github.com/codex-iter">Codex</a></li>
-  <li>Into Freelancing for some extra pocket money</li>
-  <li>React Developer</li>
-  <li>Web Dev Enthusiast </li>
-  <li>Pursuing B.tech in CSE at S'O'A University</li>
+ <li>Software Engineer</li>
+ <li>Passionate UI developer</li>
+ <li>Heading towards full-stack development</li>
+ <li>Loving DevOps now a days</li>
 </ul>
 <h3><b><samp>Programming Languages</samp></b></h3>
   
