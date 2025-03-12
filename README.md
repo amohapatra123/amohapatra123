@@ -25,6 +25,10 @@
   ![JQUERY](https://img.shields.io/badge/JQUERY-yellow?style=flat-round&logo=JQUERY&logoColor=white)
   ![REACT](https://img.shields.io/badge/REACT-blue?style=flat-round&logo=REACT&logoColor=white)
   ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=flat-round&logo=vuedotjs&logoColor=4FC08D)
+  
+<h3><b>Cloud and DevOps</b></h3>
+
+![DOCKER](https://img.shields.io/badge/docker-257bd6?style=flat-round&logo=docker&logoColor=white)
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-round&logo=Git&logoColor=white)
